@@ -1,0 +1,14 @@
+body{
+ margin-left: 2rem;
+ background-color: burlywood;
+}
+#para{
+    background-color: aquamarine;
+    color:blue;
+    font-size: 20px;
+    font-weight: 200;
+}
+#but{
+    background-color: coral;
+    color: black;
+}
